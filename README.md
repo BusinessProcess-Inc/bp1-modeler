@@ -16,4 +16,6 @@ Windows installers are signed by BusinessProcess Inc. (Windows shows the publish
 
 Support: [support@bp1.ai](mailto:support@bp1.ai)
 
+License: [BP1 Modeler End User License Agreement](LICENSE). Open source components included in the app are listed in its Help menu.
+
 © BusinessProcess Inc. All rights reserved.
