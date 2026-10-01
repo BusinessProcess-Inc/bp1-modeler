@@ -1,0 +1,51 @@
+BP1 MODELER END USER LICENSE AGREEMENT
+
+Last updated: October 1, 2026
+
+This End User License Agreement ("Agreement") is between you (an individual or the organization you represent, "you") and BusinessProcess Inc., a Delaware corporation ("BusinessProcess", "we", "us"). It governs your use of the BP1 Modeler desktop application, including its installers, updates and documentation (the "Software").
+
+By installing, copying or using the Software, you agree to this Agreement. If you do not agree, do not install or use the Software. If you accept on behalf of an organization, you confirm that you are authorized to bind it.
+
+1. LICENSE GRANT
+Subject to this Agreement, BusinessProcess grants you a free of charge, non-exclusive, non-transferable, non-sublicensable, revocable license to install and use the Software on devices you own or control, for personal, educational and internal business purposes, including commercial work.
+
+2. RESTRICTIONS
+You may not, and may not allow others to:
+(a) sell, rent, lease, lend, sublicense or otherwise distribute the Software or its installers, or make them available for download from anywhere other than the official sources (modeler.bp1.ai and the BusinessProcess-Inc/bp1-modeler repository on GitHub);
+(b) modify, translate or create derivative works of the Software;
+(c) decompile, disassemble or reverse engineer the Software, except to the extent applicable law expressly permits this despite this restriction;
+(d) remove or alter any copyright, trademark or other notices in the Software;
+(e) use the Software in violation of applicable law, including export control and sanctions laws.
+
+3. YOUR CONTENT
+Diagrams and other files you create or open with the Software ("Your Content") belong to you. The Software works with files stored on your device; we do not receive Your Content.
+
+4. OWNERSHIP
+The Software is licensed, not sold. BusinessProcess and its licensors own all rights, title and interest in the Software, including all intellectual property rights. "BP1" and "BP1 Modeler" are trademarks of BusinessProcess Inc. All rights not expressly granted are reserved.
+
+5. THIRD-PARTY COMPONENTS
+The Software includes open source components, such as Electron and Chromium, that are licensed under their own terms. Those terms govern your use of those components and are listed in the Software (Help menu: Third-Party Licenses and Chromium Licenses). Nothing in this Agreement limits your rights under those licenses.
+
+6. UPDATES
+The Software checks the official release repository on GitHub for new versions and may download and install updates automatically. During these checks GitHub receives standard request information, such as your IP address and the Software version. Updates are covered by this Agreement unless they come with different terms.
+
+7. DATA AND PRIVACY
+The Software does not send Your Content or usage analytics to BusinessProcess. A problem report is created only when you choose Help > Report a Problem; it is saved on your device and sent only if you choose to send it.
+
+8. FEEDBACK
+If you send us suggestions or feedback, we may use them without obligation to you.
+
+9. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE OR UNINTERRUPTED, OR THAT IT WILL NOT LOSE OR DAMAGE DATA. KEEP BACKUPS OF YOUR FILES.
+
+10. LIMITATION OF LIABILITY
+YOU CAN RECOVER FROM BUSINESSPROCESS AND ITS LICENSORS ONLY DIRECT DAMAGES UP TO US$5.00. YOU CANNOT RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS, LOST DATA, SPECIAL, INDIRECT, INCIDENTAL OR PUNITIVE DAMAGES. THIS LIMITATION APPLIES TO ANY MATTER RELATED TO THE SOFTWARE AND TO CLAIMS FOR BREACH OF CONTRACT, WARRANTY, NEGLIGENCE OR OTHER TORT, TO THE MAXIMUM EXTENT PERMITTED BY LAW. IT APPLIES EVEN IF BUSINESSPROCESS KNEW OR SHOULD HAVE KNOWN ABOUT THE POSSIBILITY OF THE DAMAGES. SOME JURISDICTIONS DO NOT ALLOW THESE LIMITATIONS, SO THEY MAY NOT APPLY TO YOU.
+
+11. TERMINATION
+This Agreement is effective until terminated. Your rights end automatically if you breach it. You may terminate it at any time by uninstalling the Software. Sections 3, 4, 8, 9, 10 and 12 survive termination.
+
+12. GENERAL
+This Agreement is governed by the laws of the State of Delaware, USA, without regard to its conflict of laws rules. Unless applicable law requires otherwise, the state and federal courts located in the State of Delaware have exclusive jurisdiction over any dispute arising from or related to this Agreement or the Software, and you consent to their jurisdiction. If any provision is held unenforceable, the rest remains in effect. Our failure to enforce a provision is not a waiver. You may not assign this Agreement without our consent; we may assign it in connection with a merger, acquisition or sale of assets. This Agreement is the entire agreement between you and BusinessProcess about the Software. We may update this Agreement; the version included with a release of the Software applies to that release.
+
+13. CONTACT
+BusinessProcess Inc. — support@bp1.ai
