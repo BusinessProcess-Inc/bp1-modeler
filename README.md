@@ -12,7 +12,7 @@ This repository hosts release builds only. The source code is not published here
 | Windows x64 | `BP1-Modeler-Setup-x64.exe` | Windows 10 or 11 |
 | Windows ARM64 | `BP1-Modeler-Setup-arm64.exe` | Windows 10 or 11 on ARM |
 
-Preview builds are not yet signed with Apple and Microsoft certificates. The download page explains how to open them. Checksums are in `SHA256SUMS.txt` of each release.
+Windows installers are signed by BusinessProcess Inc. (Windows shows the publisher as BUSINESSPROCESS INC). Until the new signature builds up a reputation, Windows SmartScreen may still ask you to confirm: click **More info**, check the publisher and click **Run anyway**. The Mac app is not yet signed with an Apple certificate; the [download page](https://modeler.bp1.ai/downloads#install) explains how to open it. Checksums are in `SHA256SUMS.txt` of each release.
 
 Support: [support@bp1.ai](mailto:support@bp1.ai)
 
